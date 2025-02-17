@@ -47,5 +47,6 @@ Code Jam is an **online code editor** similar to VS Code, featuring:
 - Database integration (PostgreSQL/MongoDB)
 - Secure authentication & authorization (JWT/OAuth)
 
+#Collaborated work between Harsh Singh, Rudra Pruthi and Lakshya Pratap Singh 
 ## Contact
-For questions or suggestions, reach out to singhharsh381@gmail.com or rudrapruthi@gmail.com
+For questions or suggestions, reach out to singhharsh381@gmail.com or rudrapruthi@gmail.com or lakshya29012004@gmail.com
